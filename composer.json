@@ -1,0 +1,16 @@
+{
+    "name": "ignited/pdftk-bin",
+    "description": "pdftk source binaries.",
+    "keywords": ["pdf", "pdftk"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Whiteside",
+            "email": "alex@whiteside.com"
+        }
+    ],
+    "bin": [
+	"bin/pdftk-osx"
+    ]
+}
